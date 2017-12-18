@@ -3,7 +3,8 @@ const express 				= require('express'),
 	bodyParser					= require('body-parser'),
 	cors								= require('cors'),
 	app									= express(),
-	PORT								= process.env.PORT || 8080;
+	PORT								= process.env.PORT || 3000;
+	
 require('dotenv').config();
 // 1. set up the view engines
 app.set('view engine', 'html');
