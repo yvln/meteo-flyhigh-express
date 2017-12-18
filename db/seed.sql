@@ -1,6 +1,5 @@
 DROP DATABASE IF EXISTS flying_high_db;
 CREATE DATABASE flying_high_db;
-\c flying_high_db
 
 DROP TABLE IF EXISTS places;
 
