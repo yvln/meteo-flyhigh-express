@@ -1,5 +1,9 @@
 # Meteo Fly High
-Meteo web app
 
-link to the web app: https://meteo-flyhigh-react.netlify.com/
-link to the backend repo: https://github.com/yvln/meteo-flyhigh-react
+## Setup
+- ```npm install```
+- ```nodemon```
+
+## Access
+- Link to the web app: https://meteo-flyhigh-react.netlify.com/
+- Link to the backend repo: https://github.com/yvln/meteo-flyhigh-react
